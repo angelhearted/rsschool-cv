@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://angelhearted.github.io/rsschool-cv/cv
+[CV](https://angelhearted.github.io/rsschool-cv/cv)
