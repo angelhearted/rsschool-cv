@@ -1,2 +1,3 @@
 # rsschool-cv
-repo for a task
+
+https://angelhearted.github.io/rsschool-cv/cv
